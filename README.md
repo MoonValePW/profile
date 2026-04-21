@@ -1,74 +1,100 @@
-
-## ```bash
-$ whoami
-````
-
-```bash
-name:        Kota
-location:    Los Angeles, CA
-education:   B.S. Computer Science
-role:        Software Developer / Systems Engineer
-status:      Open to Opportunities
-github:      ValeMoonPW
-alias:       ValeWorks
-```
-
----
-
-## `> mission.log`
-
-```diff
-+ Develop scalable and maintainable software solutions
-+ Design and implement efficient backend systems and APIs
-+ Build modern, responsive web applications
-+ Focus on performance, reliability, and clean architecture
-+ Continuously expand knowledge in systems and software design
-```
-
----
-
-## `> tech_stack`
-
-### Languages
-
-JavaScript • TypeScript • Python • C# • C++ • HTML • CSS
-
-### Frameworks & Runtime
-
-Node.js • React • Express • Tailwind CSS
-
-### Databases & Tools
-
-MongoDB • MySQL • SQLite • Git • Docker • Linux • VS Code
-
----
-
-## `> about.txt`
-
-```txt
-Software Developer based in Los Angeles with a Bachelor's degree in Computer Science.
-
-I specialize in designing and building scalable applications with a strong emphasis on clean architecture, performance, and maintainability.
-
-My experience includes full-stack development, backend systems, and software design, with a continuous focus on improving efficiency and code quality.
-
-I approach development with a problem-solving mindset, aiming to deliver reliable and well-structured solutions.
-
-Committed to continuous learning, collaboration, and delivering high-quality software.
-```
-
----
-
-## `> github.stats`
+<!-- HEADER -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ValeMoonPW&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ValeMoonPW&theme=default&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1c1c,100:2c5364&height=200&section=header&text=KOTA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20Engineer&descAlignY=60&descSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=8AA4FF&center=true&vCenter=true&width=650&lines=Software+Developer;Systems+Engineer;Designing+scalable+systems;Focused+on+clean+architecture+and+performance" />
 </p>
 
 ---
 
-## `> connect`
+## ```bash
+
+$ whoami
+
+````
+
+```bash
+Name:        Kota
+Location:    Los Angeles, CA
+Education:   B.S. Computer Science
+Role:        Software Developer / Systems Engineer
+Status:      Open to Opportunities
+GitHub:      ValeMoonPW
+Alias:       ValeWorks
+````
+
+---
+
+## ```bash
+
+$ mission
+
+````
+
+```txt
+- Build scalable and maintainable software systems
+- Develop backend services and APIs
+- Create modern, responsive web applications
+- Focus on performance, reliability, and clean architecture
+- Continuously grow through hands-on development
+````
+
+---
+
+## ```bash
+
+$ tech_stack
+
+````
+
+**Languages**  
+JavaScript • TypeScript • Python • C# • C++ • HTML • CSS  
+
+**Frameworks & Runtime**  
+Node.js • React • Express • Tailwind CSS  
+
+**Databases & Tools**  
+MongoDB • MySQL • SQLite • Git • Docker • Linux • VS Code  
+
+---
+
+## ```bash
+$ stats
+````
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ValeMoonPW&show_icons=true&hide_border=true&title_color=8AA4FF&icon_color=8AA4FF" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ValeMoonPW&hide_border=true&ring=8AA4FF" />
+</p>
+
+---
+
+## ```bash
+
+$ about
+
+````
+
+```txt
+Software Developer based in Los Angeles with a Bachelor's degree in Computer Science.
+
+I focus on building scalable, efficient systems with an emphasis on clean architecture and long-term maintainability.
+
+My experience spans full-stack development, backend engineering, and system design, with a consistent drive to improve performance and code quality.
+
+I approach problems analytically and aim to deliver reliable, well-structured solutions.
+````
+
+---
+
+## ```bash
+
+$ connect
+
+````
 
 <p align="center">
   <a href="https://github.com/ValeMoonPW">GitHub</a> •
@@ -79,17 +105,18 @@ Committed to continuous learning, collaboration, and delivering high-quality sof
 
 ---
 
-## `> system.status`
+## ```bash
+$ status
+````
 
-```diff
-+ open_to_work: true
-+ collaboration: encouraged
-+ focus: software development & system design
+```txt
+open_to_work: true
+collaboration: welcome
+focus: software development & system design
 ```
 
 ---
 
 <p align="center">
-  <i>Focused on building reliable, scalable, and efficient software.</i>
+  <sub>Minimal. Reliable. Scalable.</sub>
 </p>
-````
