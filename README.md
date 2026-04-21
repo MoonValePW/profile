@@ -10,47 +10,60 @@
 
 ---
 
-## $ whoami
+## 👨‍💻 About Me
 
-```bash
-$ echo "Kota"
-$ echo "Los Angeles, CA"
-$ echo "B.S. Computer Science"
-$ echo "Software Developer / Systems Engineer"
-$ echo "Open to Opportunities"
-$ echo "GitHub: ValeMoonPW"
-$ echo "Alias: ValeWorks"
+```txt
+Kota
+Los Angeles, CA
+
+B.S. in Computer Science
+Software Developer / Systems Engineer
+
+Open to Opportunities
 ```
 
 ---
 
-## $ mission
+## 🚀 Focus
 
-```bash
-$ cat mission.log
-- Build scalable and maintainable software systems
-- Develop backend services and APIs
-- Create modern, responsive web applications
-- Focus on performance, reliability, and clean architecture
-- Continuously grow through hands-on development
+```txt
+• Scalable software systems
+• Backend development & APIs
+• Modern web applications
+• Performance & clean architecture
+• Continuous learning and improvement
 ```
 
 ---
 
-## $ tech_stack
+## 🧠 Tech Stack
 
-**Languages**
-JavaScript • TypeScript • Python • C# • C++ • HTML • CSS
-
-**Frameworks & Runtime**
-Node.js • React • Express • Tailwind CSS
-
-**Databases & Tools**
-MongoDB • MySQL • SQLite • Git • Docker • Linux • VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,html,css,nodejs,react,express,tailwind,mongodb,mysql,sqlite,git,docker,linux,vscode&theme=dark" />
+</p>
 
 ---
 
-## $ stats
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ValeMoonPW/REPOSITORY_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValeMoonPW&repo=REPOSITORY_NAME_1&hide_border=true&title_color=8AA4FF&icon_color=8AA4FF" />
+  </a>
+  <a href="https://github.com/ValeMoonPW/REPOSITORY_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValeMoonPW&repo=REPOSITORY_NAME_2&hide_border=true&title_color=8AA4FF&icon_color=8AA4FF" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ValeMoonPW/REPOSITORY_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValeMoonPW&repo=REPOSITORY_NAME_3&hide_border=true&title_color=8AA4FF&icon_color=8AA4FF" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ValeMoonPW&show_icons=true&hide_border=true&title_color=8AA4FF&icon_color=8AA4FF" />
@@ -59,24 +72,23 @@ MongoDB • MySQL • SQLite • Git • Docker • Linux • VS Code
 
 ---
 
-## $ about
+## 📖 Professional Summary
 
 ```txt
 Software Developer based in Los Angeles with a Bachelor's degree in Computer Science.
 
-I focus on building scalable, efficient systems with an emphasis on clean architecture,
-performance, and long-term maintainability.
+Focused on building scalable, efficient systems with strong attention to
+architecture, performance, and maintainability.
 
-My experience spans full-stack development, backend engineering, and system design,
-with a strong focus on code quality and reliable execution.
+Experience includes full-stack development, backend engineering,
+and system design with an emphasis on clean, reliable code.
 
-I approach development analytically and aim to deliver well-structured,
-practical software solutions.
+Driven by continuous learning and delivering high-quality software solutions.
 ```
 
 ---
 
-## $ connect
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/ValeMoonPW">GitHub</a> •
@@ -87,16 +99,12 @@ practical software solutions.
 
 ---
 
-## $ status
+## 📌 Status
 
-```bash
-$ systemctl status kota
-● kota.service - Professional Profile
-   Loaded: true
-   Active: active (running)
-   Focus: software development & system design
-   Hiring: open
-   Collaboration: welcome
+```txt
+Open to work
+Open to collaboration
+Actively building
 ```
 
 ---
@@ -106,5 +114,5 @@ $ systemctl status kota
 </p>
 
 <p align="center">
-  <sub>Minimal • Scalable • Reliable</sub>
+  <sub>Clean • Scalable • Reliable</sub>
 </p>
