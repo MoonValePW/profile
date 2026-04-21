@@ -1,4 +1,4 @@
-<!-- HEADER (Animated Wave) -->
+<!-- HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1c1c,100:2c5364&height=200&section=header&text=KOTA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20Engineer&descAlignY=60&descSize=18" />
@@ -10,76 +10,47 @@
 
 ---
 
-<!-- SUBTLE DIVIDER ANIMATION -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2" width="80%" />
-</p>
-
----
-
-## ```bash
-
-$ whoami
-
-````
+## $ whoami
 
 ```bash
-Name:        Kota
-Location:    Los Angeles, CA
-Education:   B.S. Computer Science
-Role:        Software Developer / Systems Engineer
-Status:      Open to Opportunities
-GitHub:      ValeMoonPW
-Alias:       ValeWorks
-````
+$ echo "Kota"
+$ echo "Los Angeles, CA"
+$ echo "B.S. Computer Science"
+$ echo "Software Developer / Systems Engineer"
+$ echo "Open to Opportunities"
+$ echo "GitHub: ValeMoonPW"
+$ echo "Alias: ValeWorks"
+```
 
 ---
 
-## ```bash
+## $ mission
 
-$ mission
-
-````
-
-```txt
+```bash
+$ cat mission.log
 - Build scalable and maintainable software systems
 - Develop backend services and APIs
 - Create modern, responsive web applications
 - Focus on performance, reliability, and clean architecture
 - Continuously grow through hands-on development
-````
+```
 
 ---
 
-<!-- MID PAGE ANIMATED BAR -->
+## $ tech_stack
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1c1c1c,100:2c5364&height=3" width="60%" />
-</p>
+**Languages**
+JavaScript • TypeScript • Python • C# • C++ • HTML • CSS
 
----
+**Frameworks & Runtime**
+Node.js • React • Express • Tailwind CSS
 
-## ```bash
-
-$ tech_stack
-
-````
-
-**Languages**  
-JavaScript • TypeScript • Python • C# • C++ • HTML • CSS  
-
-**Frameworks & Runtime**  
-Node.js • React • Express • Tailwind CSS  
-
-**Databases & Tools**  
-MongoDB • MySQL • SQLite • Git • Docker • Linux • VS Code  
+**Databases & Tools**
+MongoDB • MySQL • SQLite • Git • Docker • Linux • VS Code
 
 ---
 
-## ```bash
-$ stats
-````
+## $ stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ValeMoonPW&show_icons=true&hide_border=true&title_color=8AA4FF&icon_color=8AA4FF" />
@@ -88,37 +59,24 @@ $ stats
 
 ---
 
-## ```bash
-
-$ about
-
-````
+## $ about
 
 ```txt
 Software Developer based in Los Angeles with a Bachelor's degree in Computer Science.
 
-I focus on building scalable, efficient systems with an emphasis on clean architecture and long-term maintainability.
+I focus on building scalable, efficient systems with an emphasis on clean architecture,
+performance, and long-term maintainability.
 
-My experience spans full-stack development, backend engineering, and system design, with a strong focus on performance and code quality.
+My experience spans full-stack development, backend engineering, and system design,
+with a strong focus on code quality and reliable execution.
 
-I approach development with an analytical mindset and a commitment to delivering reliable, well-structured solutions.
-````
-
----
-
-<!-- SUBTLE ANIMATED DIVIDER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2" width="80%" />
-</p>
+I approach development analytically and aim to deliver well-structured,
+practical software solutions.
+```
 
 ---
 
-## ```bash
-
-$ connect
-
-````
+## $ connect
 
 <p align="center">
   <a href="https://github.com/ValeMoonPW">GitHub</a> •
@@ -129,19 +87,19 @@ $ connect
 
 ---
 
-## ```bash
-$ status
-````
+## $ status
 
-```txt
-open_to_work: true
-collaboration: welcome
-focus: software development & system design
+```bash
+$ systemctl status kota
+● kota.service - Professional Profile
+   Loaded: true
+   Active: active (running)
+   Focus: software development & system design
+   Hiring: open
+   Collaboration: welcome
 ```
 
 ---
-
-<!-- FOOTER (Animated Wave) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1c1c,100:2c5364&height=120&section=footer" />
